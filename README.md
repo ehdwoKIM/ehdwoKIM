@@ -49,5 +49,5 @@
 
 <div align=center>
 
-![ehdwoKIM's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![ehdwoKIM's github stats](https://github-readme-stats.vercel.app/api?username=ehdwoKIM&show_icons=true)
 
