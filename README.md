@@ -6,7 +6,7 @@
     <Strong>☁️SNS list☁️</Strong><br><br>
     <a href="https://www.instagram.com/aftermiidnightt/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>kinbell19@gmail.com<br>
+<Strong>📧Email📧</Strong><br><br>kinbell19@gmail.com<br>
 </p>
 
 <br>
