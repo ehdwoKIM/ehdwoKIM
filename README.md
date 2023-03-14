@@ -18,8 +18,7 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br><br>
-    💡 +used at least once
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
 
 <p align="center" display="inline-block">
