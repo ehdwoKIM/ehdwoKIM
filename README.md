@@ -10,12 +10,6 @@
 <br>
 
 <p align="center">
-해결하는 것을 좋아하는, 백엔드 공부중인 개발자입니다.<br>
-</p>
-
-<br>
-
-<p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
 
