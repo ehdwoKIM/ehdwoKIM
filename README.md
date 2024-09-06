@@ -6,6 +6,7 @@
 - 2022.07 ~ 2023.03 : SOPT 30기, 31기 Server Part
 - 2019.03 ~ 2024.02 : 동국대학교 컴퓨터정보통신공학과
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQatGE1yaN53_rVo0d3GcejEZT7E7yHxGekmw&s">
 
 ### Interests
 - 
@@ -42,6 +43,10 @@
 - **[PILLPICK] (Infra, Backend)**
     QR 인증과 위치 기반 추천을 활용한 폐의약품 수거 서비스.
 <br>
+
+### What will I do? 
+-
+
 
 <p align="center">
 <br><br>
