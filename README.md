@@ -30,17 +30,17 @@
 
 #### 2023
 - 넛지헬스케어 타임스프레드 팀 Backend Developer Intern
-- **[OWNSIZE](https://chromewebstore.google.com/detail/%EC%98%A8%EC%82%AC%EC%9D%B4%EC%A6%88-ownsize/bnidejblffigjfdilnppamoabdpdhmfh?hl=ko) (Infra, Backend)**
+- **[OWNSIZE](https://chromewebstore.google.com/detail/%EC%98%A8%EC%82%AC%EC%9D%B4%EC%A6%88-ownsize/bnidejblffigjfdilnppamoabdpdhmfh?hl=ko) (Infra, Backend)**<br>
     쇼핑몰에서 사이즈를 자동으로 추천하고 저장해주는 크롬 익스텐션 기반 웹서비스.
-- **[WOKAT](https://wokat-client.vercel.app/) (Backend)**
+- **[WOKAT](https://wokat-client.vercel.app/) (Backend)**<br>
     하이브리드 워크 시대, 업무공간 큐레이션 서비스. 
-- **[FORKIDS] (Infra, Backend)**
+- **[FORKIDS] (Infra, Backend)**<br>
     육아 도우미 챗봇 서비스.
 
 #### 2022
 - **[HAPPIC] (Backend)**  
     행복한 순간 상호작용, 매일의 작은 행복을 인지하도록 하는 아카이빙 서비스.
-- **[PILLPICK] (Infra, Backend)**
+- **[PILLPICK] (Infra, Backend)**<br>
     QR 인증과 위치 기반 추천을 활용한 폐의약품 수거 서비스.
 <br>
 
