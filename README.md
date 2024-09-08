@@ -50,11 +50,14 @@
 <p align="center">
 <br><br>
     
-### 🧑🏻‍💻 Contact
+### 🧑🏻‍💻 Contact me
     
-<Strong>📧Email📧</Strong><br><br>kinbell19@gmail.com<br>
-</p>
-
+<div style="text-align: left;">
+    <div style="text-align: left;"> <a href=mailto:kinbell19@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kinbell19@gmail.com"> </a>
+         <a href=https://www.instagram.com/3hdw0/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/3hdw0/"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
 <br>
 
 <br>
