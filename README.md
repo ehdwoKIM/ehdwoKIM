@@ -1,16 +1,14 @@
-<h1> Dongjae's Profile 👋 </h1>
+
+### 안녕하세요. 질투가 많은 개발자, 김동재입니다.
+<br>
 
 
-### 🙇🏻‍♂️ Introduce
-
-
-
-### 🎈 Team || Group || Organization
+### 🎈 Experience
 - 2024.09 ~ : 신한투자증권 프로 디지털 아카데미 5기
 - 2023.09 ~ 2023.12 : 넛지헬스케어 백엔드 인턴
 - 2022.07 ~ 2023.03 : SOPT 30기, 31기 Server Part
 - 2019.03 ~ 2024.02 : 동국대학교 컴퓨터정보통신공학과
-
+<br>
 
 ### 🛠 Skills
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
@@ -22,7 +20,7 @@
 
 ![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 <br>
-
+<br>
 
 ### 🏃🏻 What did I do?
 #### 2024
@@ -51,6 +49,9 @@
 
 <p align="center">
 <br><br>
+    
+### 🧑🏻‍💻 Contact
+    
 <Strong>📧Email📧</Strong><br><br>kinbell19@gmail.com<br>
 </p>
 
