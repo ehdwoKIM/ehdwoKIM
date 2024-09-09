@@ -36,9 +36,9 @@
     육아 도우미 챗봇 서비스.
 
 #### 2022
-- **[HAPPIC] (Backend)**  
+- **HAPPIC (Backend)**  
     행복한 순간 상호작용, 매일의 작은 행복을 인지하도록 하는 아카이빙 서비스.
-- **[PILLPICK] (Infra, Backend)**<br>
+- **PILLPICK (Infra, Backend)**<br>
     QR 인증과 위치 기반 추천을 활용한 폐의약품 수거 서비스.
 <br>
 
