@@ -32,7 +32,7 @@
     쇼핑몰에서 사이즈를 자동으로 추천하고 저장해주는 크롬 익스텐션 기반 웹서비스.
 - **[WOKAT](https://wokat-client.vercel.app/) (Backend)**<br>
     하이브리드 워크 시대, 업무공간 큐레이션 서비스. 
-- **[FORKIDS] (Infra, Backend)**<br>
+- **FORKIDS (Infra, Backend)**<br>
     육아 도우미 챗봇 서비스.
 
 #### 2022
