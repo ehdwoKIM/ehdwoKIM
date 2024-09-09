@@ -1,7 +1,6 @@
 
 ### 안녕하세요. 질투하는 개발자, 김동재입니다.
 <br>
-<img src = "https://github.com/user-attachments/assets/1f5d8aaf-60d8-4805-82ac-232f018b005e">
 
 ### 🎈 Experience
 - 2024.09 ~ : 신한투자증권 프로 디지털 아카데미 5기
