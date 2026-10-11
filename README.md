@@ -14,7 +14,7 @@
 
 [Backend Source](https://github.com/ehdwoKIM/backend)
 
-### ODS | PB 영업지원 플랫폼 API 검증
+### ODS | 신한투자증권 PB 영업지원 플랫폼 API 검증
 
 **Java · Spring · Interceptor · RDB**
 
